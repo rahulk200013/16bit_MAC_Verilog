@@ -44,4 +44,3 @@ The repository contains the following files:
 To clone and run this project, use the following commands:
 ```bash
 git clone https://github.com/rahulk200013/16bit_MAC.git
-cd 16bit_MAC
