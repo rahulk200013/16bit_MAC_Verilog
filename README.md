@@ -37,8 +37,8 @@ This project implements a 16-bit Multiplier Accumulator Unit (MAC) using Verilog
 ## Project Files
 The repository contains the following files:
 - Verilog source code
-- Timing analysis reports (Check Project_Report.pdf in docs)
-- Documentation (Check Project_Report.pdf in docs)
+- Timing analysis reports (Check [Project_Report.pdf](docs/Project_Report.pdf) in docs)
+- Documentation (Check [Project_Report.pdf](docs/Project_Report.pdf) in docs)
 
 ## Getting Started
 To clone and run this project, use the following commands:
