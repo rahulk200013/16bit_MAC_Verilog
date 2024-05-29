@@ -19,6 +19,7 @@ This project implements a 16-bit Multiplier Accumulator Unit (MAC) using Verilog
 
 ## Tools Used
 - **Synthesis:** Cadence Genus
+- **Place and Route:** Cadence Innovus
 - **Simulation:** ModelSim
 
 ## Synthesis Results
